@@ -1,0 +1,5 @@
+#project basic folders
+node_modules
+data
+debug
+.env
